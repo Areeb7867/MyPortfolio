@@ -1,0 +1,80 @@
+body{
+    background-color:beige;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+div{
+    background-image: url('river1.jpg' );
+    background-size: cover;
+}
+
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: #111;
+  }
+
+
+
+div {
+    text-align: center;
+    background-color:url('ban.jpg');
+    color:black;
+}
+
+
+
+
+
+
+
+
+h2{
+    text-align: center;
+    color: blue;
+}
+h1{
+    text-align: center;
+    color: blue;
+}
+
+table,th,td{
+  width: auto;
+
+  text-align: center;
+  letter-spacing: 3px;
+  grid-row-end: auto;
+}
+
+
+
+
+a{
+  color: blue;
+
+}
+a:hover{
+
+  color:red
+}
+
