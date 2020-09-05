@@ -55,6 +55,7 @@ h2{
 h1{
     text-align: center;
     color: blue;
+    font-family:courier,arial,helvetica;
 }
 
 table,th,td{
